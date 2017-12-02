@@ -1,2 +1,2 @@
 # Computer-and-System-Programming
-Projacts at QUT
+Projects at QUT
